@@ -1,1 +1,11 @@
 /* You can add global styles to this file, and also import other style files */
+
+.flex {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+}
+.grid {
+  display: grid;
+  gap: 1rem;
+}
